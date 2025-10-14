@@ -1,7 +1,7 @@
 {
   "city": "QuranTranslation",
   "stations": [
-        { "name": "Emasjid Quran", "url": "http://relay.emasjidlive.uk/quraan" },
+    { "name": "Emasjid Quran", "url": "http://relay.emasjidlive.uk/quraan" },
     { "name": "Emasjid Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" },
     { "name": "MyMasjid Qiraat", "url": "http://lb.mymasjid.stream/qiraat" },
     { "name": "Motvational Speakers", "url": "http://104.7.66.64:8010/;?icy=http" },
