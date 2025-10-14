@@ -4,7 +4,7 @@
     { "name": "Emasjid Quran", "url": "http://relay.emasjidlive.uk/quraan" },
     { "name": "Emasjid Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" },
     { "name": "MyMasjid Qiraat", "url": "http://lb.mymasjid.stream/qiraat" },
-    { "name": "Motvational Speakers", "url": "http://104.7.66.64:8010/;?icy=http" },
+    { "name": "Motvational Speakers", "url": "http://104.7.66.64:8010/" },
     { "name": "Inspirational Lectures", "url": "http://104.7.66.64:8006/;?icy=http" },
     { "name": "Deenagers Youth", "url": "http://104.7.66.64:8003/;?icy=http" },
     { "name": "Inspiring Women in Islam", "url": "http://104.7.66.64:8096/;?icy=http" },
