@@ -14,10 +14,10 @@
     { "name": "Love Quran", "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691" },
     { "name": "Radio Quran 2", "url": "http://66.45.232.131:9994/stream?type=http&nocache=202863" },
     { "name": "Quran Islam Today", "url": "http://islam2day.tv:3000" },  
-    { "name": "Tafseer Islam Today", "url": "http://islam2day.tv:4000" },  
-    { "name": " Islam Today", "url": "http://islam2day.tv:5000" },  
-    { "name": "History Islam Today", "url": "http://islam2day.tv:6000" },  
-    { "name": "Nasheeds Islam Today", "url": "http://islam2day.tv:7000" }, 
-    { "name": "Lectures Islam Today", "url": "http://islam2day.tv:8000" }
+    { "name": "Tafseer Islam", "url": "http://islam2day.tv:4000" },  
+    { "name": "Islam Today", "url": "http://islam2day.tv:5000" },  
+    { "name": "History Islam", "url": "http://islam2day.tv:6000" },  
+    { "name": "Nasheeds Islam", "url": "http://islam2day.tv:7000" }, 
+    { "name": "Lectures Islam", "url": "http://islam2day.tv:8000" }
   ]
 }
