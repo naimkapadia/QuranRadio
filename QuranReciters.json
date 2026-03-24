@@ -1,1 +1,26 @@
-
+{
+  "city": "Quran Reciters",
+  "stations": [
+    
+       {
+      "name": "Quran Station 1",
+      "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
+    },
+    {
+      "name": "Quran Station 2",
+      "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
+    },
+    {
+      "name": "Quran Station 3",
+      "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
+    },
+    {
+      "name": "Quran Station 4",
+      "url": "http://66.45.232.131:9994/stream?type=http&nocache=202863"
+    },
+    {
+      "name": "Quran Station 5",
+      "url": "http://securestreams7.autopo.st/?uri=http://live.mp3quran.net:9768/;stream/1"
+    }
+  ]
+}
