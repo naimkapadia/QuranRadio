@@ -142,19 +142,7 @@
     {
       "name": "Quran Turkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
-    },
-     {
-      "name": "Alhusary_Qalon",
-      "url": "https://codeform3d.com/QuranRadio/QuranQiraat/Alhusary_qalon.json"
-    },
-{
-      "name": "Alhusary_Warsh",
-      "url": "https://codeform3d.com/QuranRadio/QuranQiraat/Alhusary_warsh.json"
-    },
-{
-      "name": "Alhusary_Hafs",
-      "url": "https://codeform3d.com/QuranRadio/QuranQiraat/Alhusary_hafs.json"
-    }
+    }   
   ]
 }
   ]
