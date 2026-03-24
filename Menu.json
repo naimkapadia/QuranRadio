@@ -2,7 +2,7 @@
   "cities": [
     {
       "name": "QuranRadio",
-      "url": "https://codeform3d.com/QuranRadio/QuranRadio.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/refs/heads/main/QuranRadio.json"
     },
     {
       "name": "QuranReciters",
