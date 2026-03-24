@@ -8,11 +8,7 @@
       "name": "QuranReciters",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
     },
-       {
-      "name": "QuranTranslation",
-      "url": "https://codeform3d.com/QuranRadio/QuranTranslation.json"
-    },
-    {
+        {
       "name": "QuranWorld",
       "url": "https://codeform3d.com/QuranRadio/QuranWorld.json"
     },
