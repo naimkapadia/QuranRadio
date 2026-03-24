@@ -1,0 +1,33 @@
+{
+  "cities": [
+    {
+      "name": "QuranRadio",
+      "url": "https://codeform3d.com/QuranRadio/QuranRadio.json"
+    },
+    {
+      "name": "QuranReciters",
+      "url": "https://codeform3d.com/QuranRadio/QuranReciters.json"
+    },
+    {
+      "name": "QuranTranslation",
+      "url": "https://codeform3d.com/QuranRadio/QuranTranslation.json"
+    },
+    {
+      "name": "QuranWorld",
+      "url": "https://codeform3d.com/QuranRadio/QuranWorld.json"
+    },
+    {
+      "name": "QuranTafseer",
+      "url": "https://codeform3d.com/QuranRadio/QuranTafseer.json"
+    },
+ {
+      "name": "QuranQiraat",
+      "url": "https://codeform3d.com/QuranRadio/QuranQiraat.json"
+    },
+
+    {
+      "name": "UKMasjids",
+      "url": "https://codeform3d.com/QuranRadio/Cities/CityIndex.json"
+    }
+  ]
+}
