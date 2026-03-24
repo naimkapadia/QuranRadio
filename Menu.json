@@ -18,7 +18,7 @@
     },
     {
       "name": "UKMasjids",
-      "url": "https://codeform3d.com/QuranRadio/Cities/CityIndex.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
     }
   ]
 }
