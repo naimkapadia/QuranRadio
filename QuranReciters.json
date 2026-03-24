@@ -3,8 +3,8 @@
   "stations": [
     
        {
-      "name": "Quran Station 1",
-      "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
+      "name": "AbdullahAlKhudair",
+      "url": "https://github.com/naimkapadia/QuranReciters/blob/main/Abdullahalkhudair.json"
     },
     {
       "name": "Quran Station 2",
