@@ -9,8 +9,8 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
     },
     {
-      "name": "Tafseer",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Tafseer.json"
+      "name": "QuranTafseer",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranTafseer.json"
     },
     {
       "name": "QuranTranslation",
