@@ -1,1 +1,17 @@
-
+{
+  "city": "QuranQiraat",
+  "stations": [
+   {
+      "name": "Alhusary_Qalon",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Alhusary_qalon.json"
+    },
+{
+      "name": "Alhusary_Warsh",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/refs/heads/main/Alhusary_warsh.json
+    },
+{
+      "name": "Alhusary_Hafs",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Alhusary_hafs.json"
+    }
+  ]
+}
