@@ -97,11 +97,7 @@
       "name": "Quran - Kurdish",
       "url": "http://strw3.openstream.co/2388"
     },
-       {
-      "name": "Quran Oman",
-      "url": "https://partrdo.mangomolo.com/quranrdo.mp3"
-    },
-    {
+          {
       "name": "Quran - Pakistan",
       "url": "http://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12"
     },
@@ -120,10 +116,5 @@
     {
       "name": "Quran - Turkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
-    },
-     {
-      "name": "Quran - maher_almuaiqly",
-      "url": "http://qurango.net/radio/maher_almuaiqly"
     }
-  ]
-}
+    }
