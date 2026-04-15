@@ -61,7 +61,7 @@
     },
 
     {
-      "name": "Tafseer - MyMasjid",
+      "name": "MyMasjid",
       "url": "http://lb.mymasjid.stream/flc"
     },
     {
@@ -70,51 +70,51 @@
     },
 
     {
-      "name": "Quran - Australia",
+      "name": "QuranAustralia",
       "url": "http://a2.asurahosting.com:7240/stream/1/"
     },
     {
-      "name": "Quran - Bangladesh",
+      "name": "QuranBangladesh",
       "url": "http://stream.zeno.fm/1z49becwn18uv"
     },
     {
-      "name": "Quran - Canada",
+      "name": "QuranCanada",
       "url": "http://canada1.reliastream.com:8191/stream"
     },
     {
-      "name": "Quran - Chinese",
+      "name": "QuranChinese",
       "url": "http://66.45.232.131:9302/;"
     },
     {
-      "name": "Quran - Egypt",
+      "name": "QuranEgypt",
       "url": "https://stream.radiojar.com/8s5u5tpdtwzuv"
     },
          {
-      "name": "Quran - Kuwait",
+      "name": "QuranKuwait",
       "url": "http://s2.voscast.com:12312/stream"
     },
     {
-      "name": "Quran - Kurdish",
+      "name": "QuranKurdish",
       "url": "http://strw3.openstream.co/2388"
     },
           {
-      "name": "Quran - Pakistan",
+      "name": "QuranPakistan",
       "url": "http://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12"
     },
        {
-      "name": "Quran - Saudi",
+      "name": "QuranSaudi",
       "url": "http://n13.radiojar.com/4wqre23fytzuv"
     },
     {
-      "name": "Quran - South Africa",
+      "name": "QuranSouth Africa",
       "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
     },
     {
-      "name": "Quran - Sudan",
+      "name": "QuranSudan",
       "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
     },
     {
-      "name": "Quran - Turkey",
+      "name": "QuranTurkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
        },
     {
@@ -136,10 +136,7 @@
     {
       "name": "London Masjid Quba",
       "url": "https://livemasjid.net/masjidequba.mp3"
-       },
-     {
-      "name": "recitation",
-      "url": "http://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/001.mp3"
        }
+ 
   ]
 }
