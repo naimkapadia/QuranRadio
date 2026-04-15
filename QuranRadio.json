@@ -136,7 +136,10 @@
     {
       "name": "London Masjid Quba",
       "url": "https://livemasjid.net/masjidequba.mp3"
+       },
+     {
+      "name": "recitation",
+      "url": "http://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/001.mp3"
        }
-    
   ]
 }
