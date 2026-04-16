@@ -1,6 +1,6 @@
 {
   "cities": [
-    {
+        {
       "name": "QuranRadio",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranRadio.json"
     },
@@ -15,6 +15,10 @@
         {
       "name": "QuranWorld",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
+    },
+    {
+      "name": "QuranQaloon",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranQaloon.json"
     },
     {
       "name": "QuranQiraat",
