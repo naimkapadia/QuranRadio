@@ -17,8 +17,8 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
     {
-      "name": "QuranQaloon",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon.json"
+      "name": "Qaloon",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/refs/heads/main/qaloon.json"
     },
     {
       "name": "QuranQiraat",
