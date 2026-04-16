@@ -13,12 +13,12 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTafseer/main/QuranTafseer.json"
     },
         {
-      "name": "QuranWorld",
+      "name": "quranWorld",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
     {
       "name": "Qaloon",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/refs/heads/main/qaloon.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/qaloon.json"
     },
     {
       "name": "QuranQiraat",
