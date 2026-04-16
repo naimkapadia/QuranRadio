@@ -1,1 +1,148 @@
+{
+  "city": "Quran Radio",
+  "stations": [
+    {
+      "name": "Quran Station 1",
+      "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
+    },
+     {
+      "name": "Qaloon4",
+      "url": "http://www.codeform3d.com/001new1.wav"
+    },
+     {
+      "name": "Qaloon9",
+      "url": "http://www.codeform3d.com/003.wav"
+    },
+    {
+      "name": "Quran Station 2",
+      "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
+    },
+    {
+      "name": "Quran Station 3",
+      "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
+    },
+        {
+      "name": "Tafseer 1",
+      "url": "http://s9.viastreaming.net:9645/;stream/1"
+    },
+    {
+      "name": "Tafseer 2",
+      "url": "http://66.45.232.131:9990/stream?type=http&nocache=574600"
+    },
+    {
+      "name": "Tafseer - English",
+      "url": "https://icecast.livemasjid.com/annoor-relay"
+    },
+    {
+      "name": "Tafseer - Islam",
+      "url": "http://66.45.232.131:9992/stream?type=http&nocache=264790"
+    },
 
+    {
+      "name": "Islam2day 1",
+      "url": "http://islam2day.tv:6000"
+    },
+    {
+      "name": "Islam2day 2",
+      "url": "http://islam2day.tv:5000"
+    },
+    {
+      "name": "Islam2day 3",
+      "url": "http://islam2day.tv:8000"
+    },
+    {
+      "name": "Islam2day 4",
+      "url": "http://islam2day.tv:7000"
+    },
+    {
+      "name": "Islam2day 5",
+      "url": "http://islam2day.tv:3000"
+    },
+    {
+      "name": "Islam2day 6",
+      "url": "http://islam2day.tv:4000"
+    },
+
+    {
+      "name": "Quran MyMasjid",
+      "url": "http://lb.mymasjid.stream/qiraat"
+    },
+    {
+      "name": "Voice of Islam",
+      "url": "https://s6.voscast.com:9981/stream"
+    },
+
+    {
+      "name": "QuranAustralia",
+      "url": "http://a2.asurahosting.com:7240/stream/1/"
+    },
+    {
+      "name": "QuranBangladesh",
+      "url": "http://stream.zeno.fm/1z49becwn18uv"
+    },
+    {
+      "name": "QuranCanada",
+      "url": "http://canada1.reliastream.com:8191/stream"
+    },
+    {
+      "name": "QuranChinese",
+      "url": "http://66.45.232.131:9302/;"
+    },
+    {
+      "name": "QuranEgypt",
+      "url": "https://stream.radiojar.com/8s5u5tpdtwzuv"
+    },
+         {
+      "name": "QuranKuwait",
+      "url": "http://s2.voscast.com:12312/stream"
+    },
+    {
+      "name": "QuranKurdish",
+      "url": "http://strw3.openstream.co/2388"
+    },
+          {
+      "name": "QuranPakistan",
+      "url": "http://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12"
+    },
+       {
+      "name": "QuranSaudi",
+      "url": "http://n13.radiojar.com/4wqre23fytzuv"
+    },
+    {
+      "name": "QuranSouth Africa",
+      "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
+    },
+    {
+      "name": "QuranSudan",
+      "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
+    },
+    {
+      "name": "QuranTurkey",
+      "url": "http://yayin.radyofeza.com/8002/stream"
+       },
+    {
+      "name": "Birmingham Central",
+      "url": "http://cast6.asurahosting.com/proxy/syed/stream"
+       },
+      {
+      "name": "Blackburn Tauheedul ",
+      "url": "http://listen.mixlr.com/79050d57bccb2713d7f9980dd7d4750d"
+       },
+    {
+      "name": "Leicester M-Umar",
+      "url": "http://listen.mixlr.com/3ac2f1ae0007c400fb7bffbdc8b23ba5"
+       },
+       {
+      "name": "London Whitechapel",
+      "url": "https://listen.mixlr.com/51e1dcfd9a811878559970204bd68478"
+       },
+    {
+      "name": "London Masjid Quba",
+      "url": "https://livemasjid.net/masjidequba.mp3"
+       },
+ {
+      "name": "alafsy3",
+      "url": "http://download.quranicaudio.com/quran/abdul_basit_murattal/001.mp3"
+       }  
+  ]
+}
