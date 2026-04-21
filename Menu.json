@@ -12,6 +12,10 @@
       "name": "QuranWorld",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
+       {
+      "name": "QuranReciters",
+      "url": "http://raw.githubusercontent.com/naimkapadia/QuranReciters/main/Raadalkurdi.json"
+    },
     {
       "name": "UKMasjids",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
