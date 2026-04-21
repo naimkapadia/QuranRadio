@@ -16,12 +16,9 @@
       "name": "QuranWorld",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
+  
     {
-      "name": "QuranQaloon1",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/testqaloon.json"
-    },
-    {
-      "name": "QuranQaloon2",
+      "name": "QuranQaloon 1-60-Surah",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-40Surah.json"
     },
 
