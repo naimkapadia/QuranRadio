@@ -21,6 +21,13 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/testqaloon.json"
     },
     {
+      "name": "QuranQaloon2",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-40Surah.json"
+    },
+
+    
+    
+    {
       "name": "QuranQiraat",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/QuranQiraat.json"
     },
