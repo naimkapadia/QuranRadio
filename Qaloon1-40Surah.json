@@ -1,0 +1,90 @@
+{
+  "city": "Quran Radio",
+  "stations": [
+  
+    {
+      "name": "001 Fatiha",
+      "url": "http://www.codeform3d.com/Q001.wav"
+    },
+    {
+      "name": "002 Baqarah",
+      "url": "http://www.codeform3d.com/002new1.wav"
+    },
+    {
+      "name": "003 Aal-Imran",
+      "url": "http://www.codeform3d.com/Qal/003.wav"
+    },
+    {
+      "name": "004 An-Nisa",
+      "url": "http://www.codeform3d.com/Qal/004.wav"
+    },
+    {
+      "name": "005 Al-Maidah",
+      "url": "http://www.codeform3d.com/Qal/005.wav"
+    },
+    {
+      "name": "006 Al-Anam",
+      "url": "http://www.codeform3d.com/Qal/006.wav"
+    },
+    {
+      "name": "007 Al-Araf",
+      "url": "http://www.codeform3d.com/Qal/007.wav"
+    },
+    {
+      "name": "008 Al-Anfal",
+      "url": "http://www.codeform3d.com/Qal/008.wav"
+    },
+    {
+      "name": "009 At-Tawbah",
+      "url": "http://www.codeform3d.com/Qal/009.wav"
+    },
+    {
+      "name": "010 Yunus",
+      "url": "http://www.codeform3d.com/Qal/010.wav"
+    },
+    {
+      "name": "011 Hud",
+      "url": "http://www.codeform3d.com/Qal/011.wav"
+    },
+    {
+      "name": "012 Yusuf",
+      "url": "http://www.codeform3d.com/Qal/012.wav"
+    },
+    {
+      "name": "013 Ar-Rad",
+      "url": "http://www.codeform3d.com/Qal/013.wav"
+    },
+    {
+      "name": "014 Ibrahim",
+      "url": "http://www.codeform3d.com/Qal/014.wav"
+    },
+    {
+      "name": "015 Al-Hijr",
+      "url": "http://www.codeform3d.com/Qal/015.wav"
+    },
+    {
+      "name": "016 An-Nahl",
+      "url": "http://www.codeform3d.com/Qal/016.wav"
+    },
+    {
+      "name": "017 Al-Isra",
+      "url": "http://www.codeform3d.com/Qal/017.wav"
+    },
+    {
+      "name": "018 Al-Kahf",
+      "url": "http://www.codeform3d.com/Qal/018.wav"
+    },
+    {
+      "name": "019 Maryam",
+      "url": "http://www.codeform3d.com/Qal/019.wav"
+    },
+    {
+      "name": "020 Ta-Ha",
+      "url": "http://www.codeform3d.com/Qal/020.wav"
+    },
+       {
+      "name": "114 An-Nas",
+      "url": "http://www.codeform3d.com/Qal/114.wav"
+    }
+  ]
+}
