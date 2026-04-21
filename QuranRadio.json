@@ -1,10 +1,6 @@
 {
   "city": "Quran Radio",
   "stations": [
- {
-      "name": "001 Fatiha",
-      "url": "http://www.codeform3d.com/Q001.wav"
-    },
     
     {
       "name": "Quran Station 1",
