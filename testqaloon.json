@@ -1,32 +1,54 @@
 {
-"cities": [
-        {
-      "name": "Quranqaloontest",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-40Surah.json"
-    },
-    {
-      "name": "QuranReciters",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
-    },
-     {
-      "name": "QuranTafseer",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranTafseer/main/QuranTafseer.json"
-    },
-        {
-      "name": "QuranWorld",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
-    },
-    {
-      "name": "QuranQaloon",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/qaloon.json"
-    },
-    {
-      "name": "QuranQiraat",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/QuranQiraat.json"
-    },
-    {
-      "name": "UKMasjids",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
-    }
-  ]
+"sources": [
+{
+"id": "quran_qaloon_test",
+"name": "Quran Qaloon Test",
+"type": "recitation",
+"description": "Qaloon recitation (Surah 1–40 test dataset)",
+"url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-40Surah.json"
+},
+{
+"id": "quran_reciters",
+"name": "Quran Reciters",
+"type": "recitation",
+"description": "Collection of Quran reciters",
+"url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
+},
+{
+"id": "quran_tafseer",
+"name": "Quran Tafseer",
+"type": "tafseer",
+"description": "Quran tafseer content",
+"url": "https://raw.githubusercontent.com/naimkapadia/QuranTafseer/main/QuranTafseer.json"
+},
+{
+"id": "quran_world",
+"name": "Quran World",
+"type": "radio",
+"description": "Global Quran streaming sources",
+"url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
+},
+{
+"id": "quran_qaloon",
+"name": "Quran Qaloon",
+"type": "recitation",
+"description": "Full Qaloon recitation dataset",
+"url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/qaloon.json"
+},
+{
+"id": "quran_qiraat",
+"name": "Quran Qiraat",
+"type": "recitation",
+"description": "Different Qiraat styles",
+"url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/QuranQiraat.json"
+},
+{
+"id": "uk_masjids",
+"name": "UK Masjids",
+"type": "location",
+"description": "Mosques and city index in the UK",
+"region": "UK",
+"url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
+}
+]
 }
