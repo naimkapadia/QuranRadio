@@ -8,13 +8,17 @@
       "name": "QuranTafseer",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTafseer/main/QuranTafseer.json"
     },
-        {
-      "name": "QuranWorld",
+      {
+      "name": "QuranNextGen",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
-       {
+              {
       "name": "QuranReciters",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranReciters/main/Hazzaalbalushi.json"
+    },
+     {
+      "name": "QuranWorld",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
     {
       "name": "UKMasjids",
@@ -46,4 +50,4 @@
     }
        
   ]
-}
+
