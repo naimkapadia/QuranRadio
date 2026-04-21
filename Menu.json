@@ -18,12 +18,12 @@
     },
   
     {
-      "name": "QuranQaloon 1-60",
+      "name": "QuranQaloon1-60",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-60.json"
     },    
     {
-      "name": "QuranQaloon 61-114",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/QuranQiraat.json"
+      "name": "QuranQaloon61-114",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon61-114.json"
     },
     {
       "name": "UKMasjids",
