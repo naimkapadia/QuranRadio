@@ -12,8 +12,11 @@
       "name": "QuranWorld",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
-  
     {
+      "name": "UKMasjids",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
+    },
+      {
       "name": "QuranQaloon1-60",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-60.json"
     },    
@@ -36,11 +39,7 @@
     {
       "name": "QuranHafs61-114",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Hafs61-114.json"
-    },
-    
-    {
-      "name": "UKMasjids",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
     }
+       
   ]
 }
