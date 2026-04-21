@@ -5,15 +5,7 @@
       "name": "Quran Station 1",
       "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
     },
-     {
-      "name": "Qaloon4",
-      "url": "http://www.codeform3d.com/001new1.wav"
-    },
-     {
-      "name": "Qaloon8",
-      "url": "http://www.codeform3d.com/003.wav"
-    },
-    {
+       {
       "name": "Quran Station 2",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
@@ -139,10 +131,7 @@
     {
       "name": "London Masjid Quba",
       "url": "https://livemasjid.net/masjidequba.mp3"
-       },
- {
-      "name": "alafsy3",
-      "url": "http://download.quranicaudio.com/quran/abdul_basit_murattal/001.mp3"
-       }  
+       }
+ 
   ]
 }
