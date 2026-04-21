@@ -82,9 +82,165 @@
       "name": "020 Ta-Ha",
       "url": "http://www.codeform3d.com/Qal/020.wav"
     },
-       {
-      "name": "114 An-Nas",
-      "url": "http://www.codeform3d.com/Qal/114.wav"
+    {
+      "name": "021 Al-Anbiya",
+      "url": "http://www.codeform3d.com/Qal/021.wav"
+    },
+    {
+      "name": "022 Al-Hajj",
+      "url": "http://www.codeform3d.com/Qal/022.wav"
+    },
+    {
+      "name": "023 Al-Muminun",
+      "url": "http://www.codeform3d.com/Qal/023.wav"
+    },
+    {
+      "name": "024 An-Nur",
+      "url": "http://www.codeform3d.com/Qal/024.wav"
+    },
+    {
+      "name": "025 Al-Furqan",
+      "url": "http://www.codeform3d.com/Qal/025.wav"
+    },
+    {
+      "name": "026 Ash-Shuara",
+      "url": "http://www.codeform3d.com/Qal/026.wav"
+    },
+    {
+      "name": "027 An-Naml",
+      "url": "http://www.codeform3d.com/Qal/027.wav"
+    },
+    {
+      "name": "028 Al-Qasas",
+      "url": "http://www.codeform3d.com/Qal/028.wav"
+    },
+    {
+      "name": "029 Al-Ankabut",
+      "url": "http://www.codeform3d.com/Qal/029.wav"
+    },
+    {
+      "name": "030 Ar-Rum",
+      "url": "http://www.codeform3d.com/Qal/030.wav"
+    },
+    {
+      "name": "031 Luqman",
+      "url": "http://www.codeform3d.com/Qal/031.wav"
+    },
+    {
+      "name": "032 As-Sajdah",
+      "url": "http://www.codeform3d.com/Qal/032.wav"
+    },
+    {
+      "name": "033 Al-Ahzab",
+      "url": "http://www.codeform3d.com/Qal/033.wav"
+    },
+    {
+      "name": "034 Saba",
+      "url": "http://www.codeform3d.com/Qal/034.wav"
+    },
+    {
+      "name": "035 Fatir",
+      "url": "http://www.codeform3d.com/Qal/035.wav"
+    },
+    {
+      "name": "036 Ya-Sin",
+      "url": "http://www.codeform3d.com/Qal/036.wav"
+    },
+    {
+      "name": "037 As-Saffat",
+      "url": "http://www.codeform3d.com/Qal/037.wav"
+    },
+    {
+      "name": "038 Sad",
+      "url": "http://www.codeform3d.com/Qal/038.wav"
+    },
+    {
+      "name": "039 Az-Zumar",
+      "url": "http://www.codeform3d.com/Qal/039.wav"
+    },
+    {
+      "name": "040 Ghafir",
+      "url": "http://www.codeform3d.com/Qal/040.wav"
+    },
+    {
+      "name": "041 Fussilat",
+      "url": "http://www.codeform3d.com/Qal/041.wav"
+    },
+    {
+      "name": "042 Ash-Shura",
+      "url": "http://www.codeform3d.com/Qal/042.wav"
+    },
+    {
+      "name": "043 Az-Zukhruf",
+      "url": "http://www.codeform3d.com/Qal/043.wav"
+    },
+    {
+      "name": "044 Ad-Dukhan",
+      "url": "http://www.codeform3d.com/Qal/044.wav"
+    },
+    {
+      "name": "045 Al-Jathiyah",
+      "url": "http://www.codeform3d.com/Qal/045.wav"
+    },
+    {
+      "name": "046 Al-Ahqaf",
+      "url": "http://www.codeform3d.com/Qal/046.wav"
+    },
+    {
+      "name": "047 Muhammad",
+      "url": "http://www.codeform3d.com/Qal/047.wav"
+    },
+    {
+      "name": "048 Al-Fath",
+      "url": "http://www.codeform3d.com/Qal/048.wav"
+    },
+    {
+      "name": "049 Al-Hujurat",
+      "url": "http://www.codeform3d.com/Qal/049.wav"
+    },
+    {
+      "name": "050 Qaf",
+      "url": "http://www.codeform3d.com/Qal/050.wav"
+    },
+    {
+      "name": "051 Adh-Dhariyat",
+      "url": "http://www.codeform3d.com/Qal/051.wav"
+    },
+    {
+      "name": "052 At-Tur",
+      "url": "http://www.codeform3d.com/Qal/052.wav"
+    },
+    {
+      "name": "053 An-Najm",
+      "url": "http://www.codeform3d.com/Qal/053.wav"
+    },
+    {
+      "name": "054 Al-Qamar",
+      "url": "http://www.codeform3d.com/Qal/054.wav"
+    },
+    {
+      "name": "055 Ar-Rahman",
+      "url": "http://www.codeform3d.com/Qal/055.wav"
+    },
+    {
+      "name": "056 Al-Waqiah",
+      "url": "http://www.codeform3d.com/Qal/056.wav"
+    },
+    {
+      "name": "057 Al-Hadid",
+      "url": "http://www.codeform3d.com/Qal/057.wav"
+    },
+    {
+      "name": "058 Al-Mujadila",
+      "url": "http://www.codeform3d.com/Qal/058.wav"
+    },
+    {
+      "name": "059 Al-Hashr",
+      "url": "http://www.codeform3d.com/Qal/059.wav"
+    },
+    {
+      "name": "060 Al-Mumtahanah",
+      "url": "http://www.codeform3d.com/Qal/060.wav"
     }
-  ]
+     ]
 }
