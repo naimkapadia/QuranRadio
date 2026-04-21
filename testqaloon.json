@@ -1,1 +1,31 @@
-
+  "cities": [
+        {
+      "name": "QuranRadio",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranRadio.json"
+    },
+    {
+      "name": "QuranReciters",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
+    },
+     {
+      "name": "QuranTafseer",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranTafseer/main/QuranTafseer.json"
+    },
+        {
+      "name": "QuranWorld",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
+    },
+    {
+      "name": "QuranQaloon",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/qaloon.json"
+    },
+    {
+      "name": "QuranQiraat",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/QuranQiraat.json"
+    },
+    {
+      "name": "UKMasjids",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
+    }
+  ]
+}
