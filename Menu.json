@@ -4,7 +4,7 @@
       "name": "QuranStream",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranStream.json"
     },
-         {
+        {
       "name": "QuranTafseer",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTafseer/main/QuranTafseer.json"
     },
@@ -12,7 +12,7 @@
       "name": "QuranNextGen",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
-              {
+      {
       "name": "QuranReciters",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranReciters/main/Hazzaalbalushi.json"
     },
