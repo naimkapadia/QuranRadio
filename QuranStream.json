@@ -1,10 +1,7 @@
 {
   "city": "Quran Radio",
   "stations": [
-     {
-      "name": "alnufais1",
-      "url": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/001.mp3"
-    },
+   
     {
       "name": "Quran Station 1",
       "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
