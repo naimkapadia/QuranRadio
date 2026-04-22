@@ -1,5 +1,9 @@
 {
   "cities": [
+ {
+      "name": "QuranNextGen",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
+    },
     {
       "name": "QuranStream",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranStream.json"
@@ -8,45 +12,41 @@
       "name": "QuranTafseer",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTafseer/main/QuranTafseer.json"
     },
-    {
+     {
+      "name": "QuranTarteel",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
+    },
+      {
       "name": "QuranWorld",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
     },
-     {
-      "name": "QuranNextGen",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
-    },
-     {
-      "name": "QuranReciters",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
-    },
-    {
+         {
       "name": "UKMasjids",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
     },
     {
-      "name": "QuranQaloon1-60",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-60.json"
-    },    
-    {
-      "name": "QuranQaloon61-114",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon61-114.json"
-    },
-    {
-      "name": "QuranWarsh1-60",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Warsh1-60.json"
-    },    
-    {
-      "name": "QuranWarsh61-114",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Warsh61-114.json"
-    },
-    {
-      "name": "QuranHafs1-60",
+      "name": "QuranHafs 1 of 2",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Hafs.1-60.json"
     },    
     {
-      "name": "QuranHafs61-114",
+      "name": "QuranHafs 2 of 2",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Hafs61-114.json"
-    }  
-  ]
+    },  
+    {
+      "name": "QuranQaloon 1 of 2",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-60.json"
+    },    
+    {
+      "name": "QuranQaloon 2 of 2",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon61-114.json"
+    },
+    {
+      "name": "QuranWarsh 1 of 2",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Warsh1-60.json"
+    },    
+    {
+      "name": "QuranWarsh 2 of 2",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Warsh61-114.json"
+    }
+      ]
 }  
