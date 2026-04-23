@@ -4,6 +4,10 @@
       "name": "QuranNextGen",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranNextGen/main/QuranNextGen.json"
     },
+     {
+      "name": "QuranEssentials",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranStream.json"
+    },
     {
       "name": "QuranStream",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranStream.json"
