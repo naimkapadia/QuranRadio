@@ -31,30 +31,6 @@
          {
       "name": "UKMasjids",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
-    },
-    {
-      "name": "Hafs 1 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Hafs.1-60.json"
-    },    
-    {
-      "name": "Hafs 2 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Hafs61-114.json"
-    },  
-    {
-      "name": "Qaloon 1 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon1-60.json"
-    },    
-    {
-      "name": "Qaloon 2 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Qaloon61-114.json"
-    },
-    {
-      "name": "Warsh 1 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Warsh1-60.json"
-    },    
-    {
-      "name": "Warsh 2 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/Warsh61-114.json"
     }
       ]
 }  
