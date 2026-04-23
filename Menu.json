@@ -6,7 +6,11 @@
     },
      {
       "name": "QuranEssentials",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/EssentialIndex.json"
+      "url": "tps://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/EssentialIndex.json"
+    },
+       {
+      "name": "QuranQiraat",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/QiraatIndex.json"
     },
     {
       "name": "QuranStream",
@@ -19,7 +23,7 @@
      {
       "name": "QuranTarteel",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTarteel/main/QuranTarteel.json"
-    },
+    },    
       {
       "name": "QuranWorld",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranWorld/main/QuranWorld.json"
