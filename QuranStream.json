@@ -3,25 +3,25 @@
   "stations": [
    
     {
-      "name": "Quran 1",
+      "name": "Quran  Stream  1",
       "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
     },
        {
-      "name": "Quran 2",
+      "name": "Quran Stream 2",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
     {
-      "name": "Quran 3",
+      "name": "Quran Stream 3",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
     },
     
     {
-      "name": "Quran 4",
+      "name": "Quran Stream 4",
       "url": "http://lb.mymasjid.stream/qiraat"
     },
 
     {
-      "name": "Australia ",
+      "name": "Australia",
       "url": "http://a2.asurahosting.com:7240/stream/1/"
     },
     {
