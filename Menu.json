@@ -31,7 +31,11 @@
       "name": "QuranTarteel",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTarteel/main/QuranTarteel.json"
     },    
-    
+
+        {
+      "name": "QuranComplete",
+      "url": "http://www.codeform3d.com/Quranradioessential/full quran.wav"
+    }
          {
       "name": "UKMasjids",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
