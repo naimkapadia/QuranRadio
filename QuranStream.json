@@ -19,51 +19,9 @@
       "name": "Quran Stream 4",
       "url": "http://lb.mymasjid.stream/qiraat"
     },
-
     {
-      "name": "Australia",
-      "url": "http://a2.asurahosting.com:7240/stream/1/"
-    },
-    {
-      "name": "Bangladesh",
-      "url": "http://stream.zeno.fm/1z49becwn18uv"
-    },
-    {
-      "name": "Canada",
-      "url": "http://canada1.reliastream.com:8191/stream"
-    },
-    {
-      "name": "Chinese",
-      "url": "http://66.45.232.131:9302/;"
-    },
-    {
-      "name": "QuranEgypt",
-      "url": "https://stream.radiojar.com/8s5u5tpdtwzuv"
-    },
-         {
-      "name": "Kuwait",
-      "url": "http://s2.voscast.com:12312/stream"
-    },
-    {
-      "name": "Kurdish",
-      "url": "http://strw3.openstream.co/2388"
-    },
-      
-       {
-      "name": "SaudiArabia",
-      "url": "http://n13.radiojar.com/4wqre23fytzuv"
-    },
-    {
-      "name": "SouthAfrica",
-      "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
-    },
-    {
-      "name": "Sudan",
-      "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
-    },
-    {
-      "name": "Turkey",
-      "url": "http://yayin.radyofeza.com/8002/stream"
+      "name": "QuranComplete",
+      "url": "https://www.codeform3d.com/Quranradioessential/fullquran.wav"
        }
     ]
 }
