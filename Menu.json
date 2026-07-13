@@ -22,30 +22,30 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTarteel/main/QuranTarteel.json"
     },   
  {
-      "name": "RecieverBirmingham",
+      "name": "BirminghamLive",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Birmigham.json"
     },
 
     {
-      "name": "RecieverBlackburn",
+      "name": "BlackburnLive",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Blackburn.json"
     },
  
      {
-      "name": "RecieverCoventry",
+      "name": "CoventryLive",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Coventry.json"
     },
        {
-      "name": "RecieverLeicester",
+      "name": "LeicesterLive",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Leicester.json"
     },
 
       {
-      "name": "RecieverLondon",
+      "name": "LondonLive",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/London-East.json"
     },
       {
-      "name": "RecieverNuneaton",
+      "name": "NuneatonLive",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Nuneaton.json"
         } 
       ]
