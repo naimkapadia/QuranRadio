@@ -3,25 +3,99 @@
   "stations": [
    
     {
-      "name": "Quran Stream 1",
+      "name": "QuranStream 1",
       "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
     },
        {
-      "name": "Quran Stream 2",
+      "name": "QuranStream 2",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
     {
-      "name": "Quran Stream 3",
+      "name": "QuranStream 3",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
     },
     
     {
-      "name": "Quran Stream 4",
+      "name": "QuranStream 4",
       "url": "http://lb.mymasjid.stream/qiraat"
     },
+     {
+      "name": "TafseerArabic 1",
+      "url": "http://s9.viastreaming.net:9645/;stream/1"
+    },
     {
-      "name": "QuranComplete",
-      "url": "https://www.codeform3d.com/Quranradioessential/fullquran.wav"
-       }
+      "name": "TafseerArabic 2",
+      "url": "http://66.45.232.131:9990/stream?type=http&nocache=574600"
+    },
+    {
+      "name": "TafseerArabic 3",
+      "url": "http://66.45.232.131:9992/stream?type=http&nocache=264790"
+    },
+    {
+      "name": "TafseerQuran 3",
+      "url": "http://icecast.livemasjid.com/annoor-relay"
+    },    
+      
+    {
+      "name": "Islam2day",
+      "url": "http://islam2day.tv:3000"
+    },
+    {
+      "name": "TafseerEnglish",
+      "url": "http://islam2day.tv:4000"
+    },
+     {
+      "name": "WorldAustralia",
+      "url": "http://a2.asurahosting.com:7240/stream/1/"
+    },
+    {
+      "name": "WorldBangladesh",
+      "url": "http://stream.zeno.fm/1z49becwn18uv"
+    },
+    {
+      "name": "WorldBangla al Quran",
+      "url": "http://66.45.232.131:9994/;stream/1/;"
+    },
+    {
+      "name": "WorldCanada",
+      "url": "http://canada1.reliastream.com:8191/stream"
+    },
+    {
+      "name": "WorldChinese",
+      "url": "http://66.45.232.131:9302/;"
+    },
+    {
+      "name": "WorldEgypt",
+      "url": "http://stream.radiojar.com/8s5u5tpdtwzuv"
+    },
+       {
+      "name": "WorldKuwait",
+      "url": "http://s2.voscast.com:12312/stream"
+    },
+    {
+      "name": "WorldKurdish",
+      "url": "http://strw3.openstream.co/2388"
+    },
+    {
+      "name": "WorldMorocco",
+      "url": "http://virmach1.hajjam.net:8005/;"
+    },
+                  {
+      "name": "WorldSaudiArabia",
+      "url": "http://n13.radiojar.com/4wqre23fytzuv"
+    },
+    {
+      "name": "WorldSouthAfrica",
+      "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
+    },
+    {
+      "name": "WorldSudan",
+      "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
+    },
+    
+    {
+      "name": "WorldTurkey",
+      "url": "http://yayin.radyofeza.com/8002/stream"
+    }
     ]
 }
