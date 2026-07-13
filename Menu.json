@@ -30,7 +30,11 @@
      {
       "name": "QuranTarteel",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTarteel/main/QuranTarteel.json"
-    },    
+    },   
+     {
+      "name": "Nuneaton",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Nuneaton.json"
+    },
           {
       "name": "UKMasjids",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
