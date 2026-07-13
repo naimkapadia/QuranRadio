@@ -31,11 +31,34 @@
       "name": "QuranTarteel",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranTarteel/main/QuranTarteel.json"
     },   
+ {
+      "name": "Birmingham Reciever",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Birmigham.json"
+    },
+
+    {
+      "name": "Blackburn Reciever",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Blackburn.json"
+    },
+ 
      {
-      "name": "Nuneaton",
+      "name": "Coventry Reciever",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Coventry.json"
+    },
+       {
+      "name": "Leicester Reciever",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Leicester.json"
+    },
+
+      {
+      "name": "London-East Reciever",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/London-East.json"
+    },
+      {
+      "name": "Nuneaton Reciever",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Nuneaton.json"
     },
-          {
+           {
       "name": "UKMasjids",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/CityIndex.json"
     }
