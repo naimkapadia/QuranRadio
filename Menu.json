@@ -13,15 +13,7 @@
       "name": "QuranEssential",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/EssentialIndex.json"
     },
-       {
-      "name": "QuranQiraat",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/QiraatIndex.json"
-    },
-     {
-      "name": "QuranTarteel",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranTarteel/main/QuranTarteel.json"
-    },   
- {
+           {
       "name": "BirminghamLive",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Birmigham.json"
     },
