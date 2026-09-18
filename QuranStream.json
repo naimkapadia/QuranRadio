@@ -41,18 +41,17 @@
     }, 
      {
       "name": "Quran Khalaf",
-      "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
+      "url": "http://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
     }, 
     {
       "name": "Quran Warsh",
-      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+      "url": "http://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh"
     }, 
      {
       "name": "Quran Qaloon",
-      "url": "https://backup.qurango.net/radio/qeniwa"
+      "url": "http://backup.qurango.net/radio/qeniwa"
     }, 
-    
-           {
+               {
       "name": "QuranStream USA",
       "url": "http://qurango.net/radio/tarateel"
     },
@@ -138,11 +137,9 @@
 
 {
       "name": "WorldSpanish",
-      "url": "https://backup.qurango.net/radio/translation_quran_spanish_afs"
+      "url": "http://backup.qurango.net/radio/translation_quran_spanish_afs"
     },
-   
-    
-    {
+       {
       "name": "WorldTurkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
     }
