@@ -1,7 +1,10 @@
 {
   "city": "Quran Radio",
   "stations": [
-   
+   {
+      "name": "Quran NextGen",
+      "url": "http://livemasjid.net/nkdigitalsignage.mp3"
+    },
     {
       "name": "Quran Urdu",
       "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
@@ -10,11 +13,11 @@
       "name": "Quran Tarteel",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
-     {
-      "name": "Quran NextGen",
-      "url": "http://livemasjid.net/nkdigitalsignage.mp3"
-    },
-    {
+      {
+      "name": "Quran Birmingham",
+      "url": "http://cast6.asurahosting.com/proxy/syed/stream"
+    },   
+         {
       "name": "QuranStream 1",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
     },
@@ -52,11 +55,7 @@
       "name": "TafseerEnglish",
       "url": "http://islam2day.tv:4000"
     },
-     {
-      "name": "Tafseer IDA",
-      "url": "http://idauk.mixlr.com/events/5323582"
-    },
-     {
+       {
       "name": "WorldAustralia",
       "url": "http://a2.asurahosting.com:7240/stream/1/"
     },
