@@ -21,7 +21,12 @@
       "name": "Quran Urdu 3",
       "url": "http://s7.voscast.com:8642/;"
     },
-       
+
+    {
+      "name": "Quran Urdu 4",
+      "url": " http://serverkw.quran-uni.com:8006/stream?type=http&nocache=57;"
+    },
+    
      {
       "name": "QuranStream 1",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
@@ -149,7 +154,10 @@
       "name": "World Morocco",
       "url": "http://virmach1.hajjam.net:8005/;"
     },
-      
+    {
+      "name": "World Philippines",
+      "url": "https://serverkw.quran-uni.com:8114/stream?type=http&nocache=34"
+    },
     {
       "name": "World SaudiArabia",
       "url": "http://n13.radiojar.com/4wqre23fytzuv"
@@ -185,7 +193,7 @@
       "url": "http://yayin.radyofeza.com/8002/stream"
     },
      {
-      "name": "World Turkey",
+      "name": "World Turkey 2",
       "url": "http://radyo.yayin.com.tr:2727/stream"
     }    
     ]
