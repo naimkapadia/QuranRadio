@@ -5,11 +5,7 @@
       "name": "QuranStream 24/7",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranStream.json"
     },
-       {
-      "name": "QuranNextGen",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranNextGen/main/QuranNextGen.json"
-    },
-               {
+                     {
       "name": "BirminghamLive",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Birmigham.json"
     },
