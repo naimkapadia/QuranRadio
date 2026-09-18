@@ -17,6 +17,11 @@
       "name": "Quran Urdu 2",
       "url": "http://cast6.asurahosting.com/proxy/syed/stream"
     }, 
+     {
+      "name": "Quran Urdu 3",
+      "url": "http://s7.voscast.com:8642/;"
+    },
+  
     
                {
       "name": "QuranStream 1",
@@ -88,64 +93,86 @@
       "url": "http://islam2day.tv:4000"
     },
 
+    {
+      "name": "Tafseer Bulletin",
+      "url": "http://islamicbulletin.site:8114/stream"
+    },
 
+    {
+      "name": "Tafseer Relax",
+      "url": "http://s6.voscast.com:11526/live"
+    },
+ 
      {
-      "name": "WorldAlbania",
+      "name": "World Albania",
       "url": "http://www.rtvpendimi.com:8020/stream"
     },
     
        {
-      "name": "WorldAustralia",
+      "name": "World Australia",
       "url": "http://a2.asurahosting.com:7240/stream/1/"
     },
     {
-      "name": "WorldBangladesh",
+      "name": "World Bangladesh",
       "url": "http://stream.zeno.fm/1z49becwn18uv"
     },
     {
-      "name": "WorldBangla al Quran",
+      "name": "World Bangla al Quran",
       "url": "http://66.45.232.131:9994/;stream/1/;"
     },
     {
-      "name": "WorldCanada",
+      "name": "World Canada",
       "url": "http://canada1.reliastream.com:8191/stream"
     },
     {
-      "name": "WorldChinese",
+      "name": "World Chinese",
       "url": "http://66.45.232.131:9302/;"
     },
     {
-      "name": "WorldEgypt",
+      "name": "World Egypt",
       "url": "http://stream.radiojar.com/8s5u5tpdtwzuv"
     },
+    {
+      "name": "World France",
+      "url": "http://www.radiochifa.fr:8000/main"
+    },
+    
+    
        {
-      "name": "WorldKuwait",
+      "name": "World Kuwait",
       "url": "http://s2.voscast.com:12312/stream"
     },
     {
-      "name": "WorldKurdish",
+      "name": "World Kurdish",
       "url": "http://strw3.openstream.co/2388"
     },
     {
-      "name": "WorldMorocco",
+      "name": "World Morocco",
       "url": "http://virmach1.hajjam.net:8005/;"
     },
                   {
-      "name": "WorldSaudiArabia",
+      "name": "World SaudiArabia",
       "url": "http://n13.radiojar.com/4wqre23fytzuv"
     },
     {
-      "name": "WorldSouthAfrica",
+      "name": "World SouthAfrica",
       "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
     },
     {
-      "name": "WorldSudan",
+      "name": "World Sudan",
       "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
     },
 
        {
-      "name": "WorldTurkey",
+      "name": "World Turkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
+    },
+     {
+      "name": "World Turkey",
+      "url": "http://radyo.yayin.com.tr:2727/stream"
     }
+
+    
+    
     ]
 }
