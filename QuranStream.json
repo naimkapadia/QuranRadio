@@ -21,12 +21,7 @@
       "name": "Quran Urdu 3",
       "url": "http://s7.voscast.com:8642/;"
     },
-
-     {
-      "name": "Quran Urdu 4",
-      "url": "http://serverkw.quran-uni.com:8006/;*.mp3"
-    },  
-    
+       
      {
       "name": "QuranStream 1",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
@@ -156,7 +151,7 @@
     },
      {
       "name": "World Philippines",
-      "url": "http://serverkw.quran-uni.com:8114/;*.mp3"
+      "url": "http://serverkw.quran-uni.com:8114/;"
     },
 
     
