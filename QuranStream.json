@@ -24,7 +24,7 @@
 
      {
       "name": "Quran Urdu 4",
-      "url": "https://serverkw.quran-uni.com:8006/;*.mp3"
+      "url": "http://serverkw.quran-uni.com:8006/;*.mp3"
     },  
     
      {
@@ -182,7 +182,7 @@
     },
      {
       "name": "World Yoruba",
-      "url": " https://serverkw.quran-uni.com:8038/;*.mp3"
+      "url": " http://serverkw.quran-uni.com:8038/;*.mp3"
     },
        
     {
@@ -197,9 +197,6 @@
      {
       "name": "World Turkey",
       "url": "http://radyo.yayin.com.tr:2727/stream"
-    }
-
-    
-    
+    }    
     ]
 }
