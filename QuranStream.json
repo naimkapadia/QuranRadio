@@ -26,7 +26,33 @@
       "name": "QuranStream 2",
       "url": "http://lb.mymasjid.stream/qiraat"
     },
+
      {
+      "name": "QuranStream 3",
+      "url": "http://radio.radioquraan.com:9994/stream"
+    }, 
+{
+      "name": "Quran Soul",
+      "url": "http://104.7.66.64:8095/;"
+    }, 
+    {
+      "name": "Quran Khatam",
+      "url": "http://eu1.bilalbox.com:1380/stream"
+    }, 
+     {
+      "name": "Quran Khalaf",
+      "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
+    }, 
+    {
+      "name": "Quran Warsh",
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+    }, 
+     {
+      "name": "Quran Qaloon",
+      "url": "https://backup.qurango.net/radio/qeniwa"
+    }, 
+    
+           {
       "name": "QuranStream USA",
       "url": "http://qurango.net/radio/tarateel"
     },
@@ -42,6 +68,12 @@
       "name": "TafseerArabic 3",
       "url": "http://66.45.232.131:9992/stream?type=http&nocache=264790"
     },
+    {
+      "name": "TafseerArabic 4",
+      "url": "http://206.72.199.179:9992/stream"
+    },
+
+    
     {
       "name": "TafseerQuran 3",
       "url": "http://icecast.livemasjid.com/annoor-relay"
@@ -103,6 +135,12 @@
       "name": "WorldSudan",
       "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
     },
+
+{
+      "name": "WorldSpanish",
+      "url": "https://backup.qurango.net/radio/translation_quran_spanish_afs"
+    },
+   
     
     {
       "name": "WorldTurkey",
