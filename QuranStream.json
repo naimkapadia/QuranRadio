@@ -21,9 +21,7 @@
       "name": "Quran Urdu 3",
       "url": "http://s7.voscast.com:8642/;"
     },
-  
-    
-               {
+     {
       "name": "QuranStream 1",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
     },
@@ -158,6 +156,13 @@
       "name": "World SouthAfrica",
       "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
     },
+
+
+      {
+      "name": "World Somali",
+      "url": "http://serverkw.quran-uni.com:8020/;*.mp3"
+    },
+    
     {
       "name": "World Sudan",
       "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
