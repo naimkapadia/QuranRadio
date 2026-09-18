@@ -176,7 +176,7 @@
     },
      {
       "name": "World Oromo",
-      "url": " http://serverkw.quran-uni.com:8034/stream?type=http&nocache=26"
+      "url": "http://serverkw.quran-uni.com:8034/stream?type=http&nocache=26"
     },
      {
       "name": "World Yoruba",
@@ -191,10 +191,7 @@
        {
       "name": "WorldTurkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
-    },
-     {
-      "name": "WorldTurkey 2",
-      "url": "http://radyo.yayin.com.tr:2727/stream"
-    }    
+    }
+        
     ]
 }
