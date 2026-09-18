@@ -3,24 +3,28 @@
   "stations": [
    
     {
-      "name": "QuranStream 1 Urdu",
+      "name": "Quran Urdu",
       "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
     },
        {
-      "name": "QuranStream 2",
+      "name": "Quran Tarteel",
+      "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
+    },
+     {
+      "name": "Quran NextGen",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
     {
-      "name": "QuranStream 3",
+      "name": "QuranStream 1",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
     },
     
     {
-      "name": "QuranStream 4",
+      "name": "QuranStream 2",
       "url": "http://lb.mymasjid.stream/qiraat"
     },
      {
-      "name": "QuranStream 5 USA",
+      "name": "QuranStream USA",
       "url": "http://qurango.net/radio/tarateel"
     },
      {
