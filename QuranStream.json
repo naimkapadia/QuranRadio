@@ -156,13 +156,23 @@
       "name": "World SouthAfrica",
       "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
     },
-
-
       {
       "name": "World Somali",
       "url": "http://serverkw.quran-uni.com:8020/;*.mp3"
     },
-    
+    {
+      "name": "World Swahili",
+      "url": "http://serverkw.quran-uni.com:8262/;*.mp3"
+    },
+     {
+      "name": "World Oromo",
+      "url": " http://serverkw.quran-uni.com:8034/;*.mp3"
+    },
+     {
+      "name": "World Yoruba",
+      "url": " https://serverkw.quran-uni.com:8038/;*.mp3"
+    },
+       
     {
       "name": "World Sudan",
       "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
