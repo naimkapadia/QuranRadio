@@ -160,19 +160,19 @@
     },
       {
       "name": "World Somali",
-      "url": "http://serverkw.quran-uni.com:8020/;*.mp3"
+      "url": "http://serverkw.quran-uni.com:8020/stream?type=http&nocache=71"
     },
     {
       "name": "World Swahili",
-      "url": "http://serverkw.quran-uni.com:8262/;*.mp3"
+      "url": "http://serverkw.quran-uni.com:8262/stream?type=http&nocache=8"
     },
      {
       "name": "World Oromo",
-      "url": " http://serverkw.quran-uni.com:8034/;*.mp3"
+      "url": " http://serverkw.quran-uni.com:8034/stream?type=http&nocache=26"
     },
      {
       "name": "World Yoruba",
-      "url": " http://serverkw.quran-uni.com:8038/;*.mp3"
+      "url": "http://serverkw.quran-uni.com:8038/stream?type=http&nocache=23"
     },
        
     {
