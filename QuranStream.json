@@ -1,11 +1,11 @@
 {
   "city": "Quran Radio",
   "stations": [
-   {
+    {
       "name": "Quran NextGen",
       "url": "http://livemasjid.net/nkdigitalsignage.mp3"
     },
-       {
+    {
       "name": "Quran Tarteel",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
@@ -16,33 +16,28 @@
     {
       "name": "Quran Urdu 2",
       "url": "http://cast6.asurahosting.com/proxy/syed/stream"
-    }, 
-     {
+    },
+    {
       "name": "Quran Urdu 3",
       "url": "http://s7.voscast.com:8642/;"
     },
-
-      
-     {
+    {
       "name": "QuranStream 1",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
     },
-    
     {
       "name": "QuranStream 2",
       "url": "http://lb.mymasjid.stream/qiraat"
     },
-
-     {
+    {
       "name": "QuranStream 3",
       "url": "http://radio.radioquraan.com:9994/stream"
-    }, 
-{
+    },
     {
       "name": "QuranStream USA",
       "url": "http://qurango.net/radio/tarateel"
     },
-     {
+    {
       "name": "TafseerArabic 1",
       "url": "http://s9.viastreaming.net:9645/;stream/1"
     },
@@ -58,13 +53,10 @@
       "name": "TafseerArabic 4",
       "url": "http://206.72.199.179:9992/stream"
     },
-
-    
     {
       "name": "TafseerQuran 3",
       "url": "http://icecast.livemasjid.com/annoor-relay"
-    },    
-      
+    },
     {
       "name": "Islam2day",
       "url": "http://islam2day.tv:3000"
@@ -73,23 +65,19 @@
       "name": "TafseerEnglish",
       "url": "http://islam2day.tv:4000"
     },
-
     {
       "name": "Tafseer Bulletin",
       "url": "http://islamicbulletin.site:8114/stream"
     },
-
     {
       "name": "Tafseer Relax",
       "url": "http://s6.voscast.com:11526/live"
     },
- 
-     {
+    {
       "name": "World Albania",
       "url": "http://www.rtvpendimi.com:8020/stream"
     },
-    
-       {
+    {
       "name": "World Australia",
       "url": "http://a2.asurahosting.com:7240/stream/1/"
     },
@@ -117,9 +105,7 @@
       "name": "World France",
       "url": "http://www.radiochifa.fr:8000/main"
     },
-    
-    
-       {
+    {
       "name": "World Kuwait",
       "url": "http://s2.voscast.com:12312/stream"
     },
@@ -143,7 +129,7 @@
       "name": "World SouthAfrica",
       "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
     },
-      {
+    {
       "name": "World Somali",
       "url": "http://serverkw.quran-uni.com:8020/stream?type=http&nocache=71"
     },
@@ -151,24 +137,21 @@
       "name": "World Swahili",
       "url": "http://serverkw.quran-uni.com:8262/stream?type=http&nocache=8"
     },
-     {
+    {
       "name": "World Oromo",
       "url": "http://serverkw.quran-uni.com:8034/stream?type=http&nocache=26"
     },
-     {
+    {
       "name": "World Yoruba",
       "url": "http://serverkw.quran-uni.com:8038/stream?type=http&nocache=23"
     },
-       
     {
       "name": "World Sudan",
       "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
     },
-
-       {
+    {
       "name": "WorldTurkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
     }
-        
-    ]
+  ]
 }
