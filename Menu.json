@@ -1,36 +1,36 @@
 {
-  "cities": [
-
-      {
-      "name": "QuranStream 24/7",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranStream.json"
-    },
-                     {
-      "name": "BirminghamLive",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Birmigham.json"
-    },
-
-    {
-      "name": "BlackburnLive",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Blackburn.json"
-    },
- 
-     {
-      "name": "CoventryLive",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Coventry.json"
-    },
-       {
-      "name": "LeicesterLive",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Leicester.json"
-    },
-
-      {
-      "name": "LondonLive",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/London-East.json"
-    },
-      {
-      "name": "NuneatonLive",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Nuneaton.json"
-        } 
-      ]
-}  
+"cities": [
+{
+"name": "Quran Radio",
+"url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranRadio.json"
+},
+{
+"name": "QuranStream 24/7",
+"url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranStream.json"
+},
+{
+"name": "BirminghamLive",
+"url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Birmigham.json"
+},
+{
+"name": "BlackburnLive",
+"url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Blackburn.json"
+},
+{
+"name": "CoventryLive",
+"url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Coventry.json"
+},
+{
+"name": "LeicesterLive",
+"url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Leicester.json"
+},
+{
+"name": "LondonLive",
+"url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/London-East.json"
+},
+{
+"name": "NuneatonLive",
+"url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Nuneaton.json"
+}
+]
+}
