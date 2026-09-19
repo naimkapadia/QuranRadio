@@ -22,11 +22,7 @@
       "url": "http://s7.voscast.com:8642/;"
     },
 
-    {
-      "name": "Quran Urdu 4",
-      "url": " http://serverkw.quran-uni.com:8006/stream?type=http&nocache=57;"
-    },
-    
+      
      {
       "name": "QuranStream 1",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
@@ -42,26 +38,7 @@
       "url": "http://radio.radioquraan.com:9994/stream"
     }, 
 {
-      "name": "Quran Soul",
-      "url": "http://104.7.66.64:8095/"
-    }, 
     {
-      "name": "Quran Khatam",
-      "url": "http://eu1.bilalbox.com:1380/stream"
-    }, 
-     {
-      "name": "Quran Khalaf",
-      "url": "http://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
-    }, 
-    {
-      "name": "Quran Warsh",
-      "url": "http://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh"
-    }, 
-     {
-      "name": "Quran Qaloon",
-      "url": "http://backup.qurango.net/radio/qeniwa"
-    }, 
-               {
       "name": "QuranStream USA",
       "url": "http://qurango.net/radio/tarateel"
     },
