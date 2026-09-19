@@ -1,10 +1,6 @@
 {
 "cities": [
 {
-"name": "Quran Radio",
-"url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranRadio.json"
-},
-{
 "name": "QuranStream 24/7",
 "url": "https://raw.githubusercontent.com/naimkapadia/QuranRadio/main/QuranStream.json"
 },
