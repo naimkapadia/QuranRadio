@@ -8,6 +8,10 @@
 "name": "QuranEssentials",
 "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/refs/heads/main/EssentialIndex.json"
 },
+   {
+"name": "QuranNextGen",
+"url": "https://raw.githubusercontent.com/naimkapadia/NexGen/refs/heads/main/NextGen.json"
+},
 {
 "name": "BirminghamLive",
 "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Birmingham.json"
