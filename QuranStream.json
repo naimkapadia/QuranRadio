@@ -3,7 +3,7 @@
   "stations": [
     {
       "name": "Quran Ruqya",
-      "url": "http://livemasjid.net/nkdigitalsignage.mp3"
+      "url": "http://192.168.68.120:8000/quranruqya/RuqyaSurahAlBaqarahPeacefulOmarHisham.mp3"
     },
     {
       "name": "Quran Tarteel",
