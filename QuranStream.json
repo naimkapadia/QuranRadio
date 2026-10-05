@@ -53,6 +53,10 @@
       "name": "TafseerQuran 3",
       "url": "http://icecast.livemasjid.com/annoor-relay"
     },
+     {
+      "name": "Islam Media Central",
+      "url": "http://a4.asurahosting.com:7820/radio.mp3"
+    },
     {
       "name": "Islam2day",
       "url": "http://islam2day.tv:3000"
