@@ -1,11 +1,7 @@
 {
   "city": "Quran Radio",
   "stations": [
-    {
-      "name": "Quran Ruqya",
-      "url": "http://192.168.68.120:8000/quranruqya/RuqyaSurahAlBaqarahPeacefulOmarHisham.mp3"
-    },
-    {
+       {
       "name": "Quran Tarteel",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
