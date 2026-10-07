@@ -16,7 +16,11 @@
     {
 "name": "QuranTarteel",
 "url": "https://raw.githubusercontent.com/naimkapadia/QuranTarteel/refs/heads/main/QuranTarteel.json"
-},   
+}, 
+   {
+"name": "Quranqiraat",
+"url": " https://raw.githubusercontent.com/naimkapadia/QuranQiraat/refs/heads/main/QiraatIndex.json"
+},
     {
 "name": "BirminghamLive",
 "url": "https://raw.githubusercontent.com/naimkapadia/Cities/main/Birmingham.json"
