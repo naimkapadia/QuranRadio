@@ -18,6 +18,10 @@
 "url": "https://raw.githubusercontent.com/naimkapadia/QuranTarteel/refs/heads/main/QuranTarteel.json"
 }, 
    {
+"name": "QuranKids",
+"url": "https://raw.githubusercontent.com/naimkapadia/QuranKids/refs/heads/main/qurankids.json"
+}, 
+   {
 "name": "QuranQiraat",
 "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/refs/heads/main/QiraatIndex.json"
 },
