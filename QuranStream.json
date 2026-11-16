@@ -57,6 +57,12 @@
       "name": "Islam2day",
       "url": "http://islam2day.tv:3000"
     },
+
+     {
+      "name": "Sharjah Quran ",
+      "url": "http://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio"
+    },
+    
     {
       "name": "TafseerEnglish",
       "url": "http://islam2day.tv:4000"
@@ -72,6 +78,10 @@
     {
       "name": "World Albania",
       "url": "http://www.rtvpendimi.com:8020/stream"
+    },
+    {
+      "name": "World Algeria",
+      "url": "http://webradio1.tda.dz:8001/Coran_64K.mp3"
     },
     {
       "name": "World Australia",
@@ -128,6 +138,10 @@
     {
       "name": "World SaudiArabia",
       "url": "http://n13.radiojar.com/4wqre23fytzuv"
+    },
+     {
+      "name": "World SaudiArabia Yasser_aldosari",
+      "url": "http://qurango.net/radio/yasser_aldosari"
     },
     {
       "name": "World SouthAfrica",
