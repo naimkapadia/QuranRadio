@@ -59,7 +59,7 @@
     },
      {
       "name": "Quran Rare ",
-      "url": "https://qurango.net/radio/tarateel"
+      "url": "http://qurango.net/radio/tarateel"
     },
 
      {
@@ -172,8 +172,12 @@
       "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
     },
     {
-      "name": "WorldTurkey",
+      "name": "World Turkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
+    },
+     {
+      "name": "World Yemen Fares Abbad",
+      "url": "http://qurango.net/radio/fares_abbad"
     }
   ]
 }
