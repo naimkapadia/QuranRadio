@@ -102,8 +102,16 @@
       "url": "http://www.radiochifa.fr:8000/main"
     },
     {
-      "name": "World Kuwait",
-      "url": "http://s2.voscast.com:12312/stream"
+      "name": "Kuwait Quran Abdul Basit",
+      "url": "http://serverkw.quran-uni.com:8004/;"
+    },
+     {
+      "name": "Kuwait Quran Maher Al Muaiqly",
+      "url": "https://serverkw.quran-uni.com:8014/;"
+    },
+    {
+      "name": "Kuwait Quran Tafsir Al-Saadi",
+      "url": "https://serverkw.quran-uni.com:8012/;"
     },
     {
       "name": "World Kurdish",
